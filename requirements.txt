@@ -1,4 +1,4 @@
-tensorflow-cpu
-gradio
+tensorflow-cpu==2.21.0
 numpy
-Pillow
+pandas
+scikit-learn
